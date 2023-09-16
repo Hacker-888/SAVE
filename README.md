@@ -32,9 +32,15 @@ ________________________________________________________________________________
 
 (tool)
 
-sudo apt install tilix
+$sudo apt install tilix
 
-sudo apt install teminator
+$sudo apt-get install teminator
 
+$sudo apt install kali-desktop-gnome -y
+gdm3
+
+$reboot
+
+$ sudo apt install kali-legacy-wallpapers
 
 
