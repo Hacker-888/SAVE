@@ -24,3 +24,17 @@ cd TheFatRat
 chmod +x setup.sh && ./setup.sh
 
 _____________________________________________________________________________
+
+(update)
+sudo apt update && sudo apt full-upgrade && sudo apt-get update && sudo apt-get upgrade
+_________________________________________________________________________________________
+
+
+(tool)
+
+sudo apt install tilix
+
+sudo apt install teminator
+
+
+
