@@ -22,7 +22,17 @@ git clone https://github.com/Screetsec/TheFatRat.git
 cd TheFatRat
 
 chmod +x setup.sh && ./setup.sh
+_____________________________________________________________________________________
+CiLocks:
+git clone https://github.com/tegal1337/CiLocks
 
+cd CiLocks
+
+chmod +x cilocks
+
+sudo bash cilocks 
+
+or sudo ./cilocks
 _____________________________________________________________________________
 
 (update)
@@ -43,4 +53,12 @@ $reboot
 
 $ sudo apt install kali-legacy-wallpapers
 
+$ sudo apt install gedit
+_______________________________________________________________________________________
+(💀)
+
+$ sed -i 's/prompt_symbol=㉿/prompt_symbol=💀/' ~/.zshrc
+
+
+$ source ~/.zshrc
 
