@@ -34,8 +34,7 @@ chmod +x cilocks
 sudo bash cilocks 
 
 or sudo ./cilocks
-_________________________________________^_________________________________
-
+__________________________________________________________________________
 SARA:
 
 git clone https://github.com/termuxhackers-id/SARA
