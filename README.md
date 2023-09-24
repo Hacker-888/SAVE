@@ -24,6 +24,7 @@ cd TheFatRat
 chmod +x setup.sh && ./setup.sh
 _____________________________________________________________________________________
 CiLocks:
+
 git clone https://github.com/tegal1337/CiLocks
 
 cd CiLocks
@@ -33,6 +34,17 @@ chmod +x cilocks
 sudo bash cilocks 
 
 or sudo ./cilocks
+_________________________________________^_________________________________
+
+SARA:
+
+git clone https://github.com/termuxhackers-id/SARA
+
+cd SARA
+
+sudo bash install.sh
+
+python3 sara.py
 _____________________________________________________________________________
 
 (update)
